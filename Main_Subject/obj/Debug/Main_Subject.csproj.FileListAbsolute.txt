@@ -1,0 +1,8 @@
+P:\akademiQI\CSharpEgitimKampi\Main_Subject\bin\Debug\Main_Subject.exe.config
+P:\akademiQI\CSharpEgitimKampi\Main_Subject\bin\Debug\Main_Subject.exe
+P:\akademiQI\CSharpEgitimKampi\Main_Subject\bin\Debug\Main_Subject.pdb
+P:\akademiQI\CSharpEgitimKampi\Main_Subject\obj\Debug\Main_Subject.csproj.AssemblyReference.cache
+P:\akademiQI\CSharpEgitimKampi\Main_Subject\obj\Debug\Main_Subject.csproj.CoreCompileInputs.cache
+P:\akademiQI\CSharpEgitimKampi\Main_Subject\obj\Debug\Main_Subject.exe
+P:\akademiQI\CSharpEgitimKampi\Main_Subject\obj\Debug\Main_Subject.pdb
+P:\akademiQI\CSharpEgitimKampi\Main_Subject\obj\Debug\Main_Subject.exe.config

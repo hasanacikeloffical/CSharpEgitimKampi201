@@ -1,0 +1,8 @@
+P:\akademiQI\CSharpEgitimKampi\variables\bin\Debug\variables.exe.config
+P:\akademiQI\CSharpEgitimKampi\variables\bin\Debug\variables.exe
+P:\akademiQI\CSharpEgitimKampi\variables\bin\Debug\variables.pdb
+P:\akademiQI\CSharpEgitimKampi\variables\obj\Debug\variables.csproj.AssemblyReference.cache
+P:\akademiQI\CSharpEgitimKampi\variables\obj\Debug\variables.csproj.CoreCompileInputs.cache
+P:\akademiQI\CSharpEgitimKampi\variables\obj\Debug\variables.exe
+P:\akademiQI\CSharpEgitimKampi\variables\obj\Debug\variables.pdb
+P:\akademiQI\CSharpEgitimKampi\variables\obj\Debug\variables.exe.config
