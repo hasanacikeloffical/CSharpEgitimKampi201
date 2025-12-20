@@ -1,0 +1,8 @@
+P:\akademiQI\CSharpEgitimKampi\Loops\bin\Debug\Loops.exe.config
+P:\akademiQI\CSharpEgitimKampi\Loops\bin\Debug\Loops.exe
+P:\akademiQI\CSharpEgitimKampi\Loops\bin\Debug\Loops.pdb
+P:\akademiQI\CSharpEgitimKampi\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+P:\akademiQI\CSharpEgitimKampi\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+P:\akademiQI\CSharpEgitimKampi\Loops\obj\Debug\Loops.exe
+P:\akademiQI\CSharpEgitimKampi\Loops\obj\Debug\Loops.pdb
+P:\akademiQI\CSharpEgitimKampi\Loops\obj\Debug\Loops.exe.config

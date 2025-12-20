@@ -1,0 +1,8 @@
+P:\akademiQI\CSharpEgitimKampi\Arrays\bin\Debug\Arrays.exe.config
+P:\akademiQI\CSharpEgitimKampi\Arrays\bin\Debug\Arrays.exe
+P:\akademiQI\CSharpEgitimKampi\Arrays\bin\Debug\Arrays.pdb
+P:\akademiQI\CSharpEgitimKampi\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+P:\akademiQI\CSharpEgitimKampi\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+P:\akademiQI\CSharpEgitimKampi\Arrays\obj\Debug\Arrays.exe
+P:\akademiQI\CSharpEgitimKampi\Arrays\obj\Debug\Arrays.pdb
+P:\akademiQI\CSharpEgitimKampi\Arrays\obj\Debug\Arrays.exe.config
