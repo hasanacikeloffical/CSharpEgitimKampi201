@@ -1,0 +1,8 @@
+P:\akademiQI\CSharpEgitimKampi\MakingDecision\bin\Debug\MakingDecision.exe.config
+P:\akademiQI\CSharpEgitimKampi\MakingDecision\bin\Debug\MakingDecision.exe
+P:\akademiQI\CSharpEgitimKampi\MakingDecision\bin\Debug\MakingDecision.pdb
+P:\akademiQI\CSharpEgitimKampi\MakingDecision\obj\Debug\MakingDecision.csproj.AssemblyReference.cache
+P:\akademiQI\CSharpEgitimKampi\MakingDecision\obj\Debug\MakingDecision.csproj.CoreCompileInputs.cache
+P:\akademiQI\CSharpEgitimKampi\MakingDecision\obj\Debug\MakingDecision.exe
+P:\akademiQI\CSharpEgitimKampi\MakingDecision\obj\Debug\MakingDecision.pdb
+P:\akademiQI\CSharpEgitimKampi\MakingDecision\obj\Debug\MakingDecision.exe.config
