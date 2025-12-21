@@ -62,6 +62,7 @@ namespace DatabaseCrud
 
             #endregion
 
+
             #region Ürün Listeleme Ýþlemi
 
             //SqlConnection connection = new SqlConnection("Data Source=DESKTOP-KM10E7C;initial Catalog=EgitimKampiDb;integrated security=true");
@@ -120,7 +121,7 @@ namespace DatabaseCrud
             command.Parameters.AddWithValue("@productPrice", productPrice);
             command.Parameters.AddWithValue("@productID", productID);
             command.ExecuteNonQuery();
-             
+
             connection.Close();
 
             Console.WriteLine("güncelleme tamamlandý");
