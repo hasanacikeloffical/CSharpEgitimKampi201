@@ -1,0 +1,8 @@
+P:\akademiQI\CSharpEgitimKampi\Methods\bin\Debug\Methods.exe.config
+P:\akademiQI\CSharpEgitimKampi\Methods\bin\Debug\Methods.exe
+P:\akademiQI\CSharpEgitimKampi\Methods\bin\Debug\Methods.pdb
+P:\akademiQI\CSharpEgitimKampi\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+P:\akademiQI\CSharpEgitimKampi\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+P:\akademiQI\CSharpEgitimKampi\Methods\obj\Debug\Methods.exe
+P:\akademiQI\CSharpEgitimKampi\Methods\obj\Debug\Methods.pdb
+P:\akademiQI\CSharpEgitimKampi\Methods\obj\Debug\Methods.exe.config

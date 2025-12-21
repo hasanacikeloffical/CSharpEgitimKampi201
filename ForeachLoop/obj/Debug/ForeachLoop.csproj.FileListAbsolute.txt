@@ -1,0 +1,8 @@
+P:\akademiQI\CSharpEgitimKampi\ForeachLoop\bin\Debug\ForeachLoop.exe.config
+P:\akademiQI\CSharpEgitimKampi\ForeachLoop\bin\Debug\ForeachLoop.exe
+P:\akademiQI\CSharpEgitimKampi\ForeachLoop\bin\Debug\ForeachLoop.pdb
+P:\akademiQI\CSharpEgitimKampi\ForeachLoop\obj\Debug\ForeachLoop.csproj.AssemblyReference.cache
+P:\akademiQI\CSharpEgitimKampi\ForeachLoop\obj\Debug\ForeachLoop.csproj.CoreCompileInputs.cache
+P:\akademiQI\CSharpEgitimKampi\ForeachLoop\obj\Debug\ForeachLoop.exe
+P:\akademiQI\CSharpEgitimKampi\ForeachLoop\obj\Debug\ForeachLoop.pdb
+P:\akademiQI\CSharpEgitimKampi\ForeachLoop\obj\Debug\ForeachLoop.exe.config

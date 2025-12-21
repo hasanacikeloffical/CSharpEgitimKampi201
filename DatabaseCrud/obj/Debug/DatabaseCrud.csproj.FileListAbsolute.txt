@@ -1,0 +1,8 @@
+P:\akademiQI\CSharpEgitimKampi\DatabaseCrud\bin\Debug\DatabaseCrud.exe.config
+P:\akademiQI\CSharpEgitimKampi\DatabaseCrud\bin\Debug\DatabaseCrud.exe
+P:\akademiQI\CSharpEgitimKampi\DatabaseCrud\bin\Debug\DatabaseCrud.pdb
+P:\akademiQI\CSharpEgitimKampi\DatabaseCrud\obj\Debug\DatabaseCrud.csproj.AssemblyReference.cache
+P:\akademiQI\CSharpEgitimKampi\DatabaseCrud\obj\Debug\DatabaseCrud.csproj.CoreCompileInputs.cache
+P:\akademiQI\CSharpEgitimKampi\DatabaseCrud\obj\Debug\DatabaseCrud.exe
+P:\akademiQI\CSharpEgitimKampi\DatabaseCrud\obj\Debug\DatabaseCrud.pdb
+P:\akademiQI\CSharpEgitimKampi\DatabaseCrud\obj\Debug\DatabaseCrud.exe.config
